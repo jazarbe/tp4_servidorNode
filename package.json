@@ -1,0 +1,25 @@
+{
+  "name": "tp4_servidornode",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/jazarbe/tp4_servidorNode#readme",
+  "bugs": {
+    "url": "https://github.com/jazarbe/tp4_servidorNode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazarbe/tp4_servidorNode.git"
+  },
+  "license": "ISC",
+  "author": "Jaz y Dai",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.20",
+    "express": "^5.2.1"
+  }
+}
